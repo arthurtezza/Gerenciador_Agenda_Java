@@ -6,7 +6,7 @@ public class Agenda {
     public static void main(String[] args){
 
         Scanner in = new Scanner(System.in);
-        Contato[] contatos = new Contato[2];
+        Contato[] contatos = new Contato[100];
 
         int opcao;
 
